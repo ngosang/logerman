@@ -1,6 +1,9 @@
 If you need an updated list contact <diegodelasheras@gmail.com>
 or open an issue in GitHub ngosang/logerman
 
+Comments in German / Total comments | Filepath
+List of comments in German
+
 2 / 110 | libreoffice-4.4.0.3/formula/source/core/api/token.cxx
 //! Reihenfolge ist wichtig
 // als Ergebnis jeder Funktion wird einfach ein Double angenommen
